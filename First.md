@@ -67,7 +67,7 @@ A project where I visualized some basic data using Python and Matplotlib.
 ## 📫 How to Reach Me
 
 - **Email:** joshuaramlagan0808@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/joshua-ramlagan-b9a365304/)
+- **LinkedIn:** [Joshua Ramlagan](https://www.linkedin.com/in/joshua-ramlagan-b9a365304/)
 - **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ---
