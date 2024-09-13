@@ -1,9 +1,9 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Joshua Ramlagan]! 👋
 
 🎒 **High School Student**  
 💻 **Aspiring:** Web Developer | Data Scientist | Software Engineer  
 🌱 **Currently Learning:** HTML, CSS, JavaScript, Python  
-🎯 **Goals:** Build my first full-stack app and contribute to open-source projects
+🎯 **Goals:** Build my first full-stack app and contribute to open-source projects and to create my own website 
 
 ---
 
@@ -66,8 +66,8 @@ A project where I visualized some basic data using Python and Matplotlib.
 
 ## 📫 How to Reach Me
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **Email:** joshuaramlagan0808@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/joshua-ramlagan-b9a365304/)
 - **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ---
