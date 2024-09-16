@@ -1,9 +1,9 @@
 # Hi, I'm [Joshua Ramlagan]! 👋
 
 🎒 **High School Student**  
-💻 **Aspiring:** Web Developer | Data Scientist | Software Engineer  
-🌱 **Currently Learning:** HTML, CSS, JavaScript, Python  
-🎯 **Goals:** Build my first full-stack app and contribute to open-source projects and to create my own website 
+💻 **Aspiring:** | Web Developer | Data Scientist | Software Engineer | AI Engineer |  
+🌱 **Currently Learning:** HTML, CSS, JavaScript, Python , Swift 
+🎯 **Goals:** Build my first full-stack app and contribute to open-source projects and to create my own website,Learn how to design and engineer apps,Learn how to engineer and model Generative Ai,And learn how to create apps for mac os and apple ios 
 
 ---
 
@@ -17,8 +17,8 @@ I enjoy working on personal projects that challenge my problem-solving skills, a
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Tools:** Visual Studio Code, Git, GitHub
+- **Languages:** Python, JavaScript, HTML, CSS, Swift
+- **Tools:** Visual Studio Code, Git, GitHub, Xcode, Replit
 - **Frameworks:** Bootstrap (beginner)
 - **Learning:** React, Node.js
 
@@ -61,6 +61,8 @@ A project where I visualized some basic data using Python and Matplotlib.
 - Build a small game using JavaScript
 - Get involved in an open-source project
 - Pursue a degree in computer science or related fields
+- Create my own webpage and app one day
+- help devolop for apple 
 
 ---
 
